@@ -8,10 +8,6 @@ assets:
   source:
   - name: 1FMMods/scripts/1fmFasterAnims.lua
 - method: copy
-  name: scripts/1fmFasterDialogue.lua
-  source:
-  - name: 1FMMods/scripts/1fmFasterDialogue.lua
-- method: copy
   name: scripts/1fmUnskippable.lua
   source:
   - name: 1FMMods/scripts/1fmUnskippable.lua
